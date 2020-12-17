@@ -2,10 +2,20 @@ body {
     margin: 0px;
     -webkit-app-region: drag;
     overflow: hidden;
+    position: relative;
 }
 
 #mycam {
     border-radius: 50%;
+    width: 95%;
+    height: 95%;
+    border-style: solid;
+    border-color:#e5f940;
+    box-shadow: 5px 5px 5px #4b4b4b;
+}
+
+#capa {
     width: 100%;
-    height: 100%;
+    height: 260;
+    position: absolute;
 }
