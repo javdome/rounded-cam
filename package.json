@@ -1,0 +1,15 @@
+{
+  "name": "rounded-cam",
+  "version": "1.0.0",
+  "description": "Shows your webcam in a draggable circle on the screen",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Javi Domenech",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^11.1.0"
+  }
+}
