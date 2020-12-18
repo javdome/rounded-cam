@@ -6,7 +6,7 @@ This is a simple electron app that always sits on top of other windows, that dis
 The "Always On Top" feature works even in full screen apps (like a powerpoint presentation).
 The webcam view is a bit rounded (more like a Loom style) and stylish with a border.
 
-<img src="https://user-images.githubusercontent.com/36993404/102346297-e9832200-3f9e-11eb-8e37-82067790ea09.JPG" width="50%">
+<img src="https://user-images.githubusercontent.com/36993404/102607285-52e26c80-4128-11eb-8bad-e2c887e35639.JPG" width="50%">
 
 ## Install and run 
 
@@ -29,4 +29,4 @@ npx @electron-forge/cli import
 npm run make
 ```
 
-Electron-forge creates the out folder where your package will be located
+Electron-forge creates the out folder where your package will be located.
