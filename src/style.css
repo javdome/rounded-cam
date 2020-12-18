@@ -3,6 +3,8 @@ body {
     -webkit-app-region: drag;
     overflow: hidden;
     position: relative;
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
 }
 
 #mycam {
