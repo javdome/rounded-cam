@@ -12,6 +12,7 @@ function createWindow () {
     frame: false,
     transparent: true,
     autoHideMenuBar: true,
+    icon: __dirname +'/rounded-cam-icon.ico',
     webPreferences: {
       nodeIntegration: true
     }
