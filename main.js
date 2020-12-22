@@ -4,8 +4,8 @@ let win;
 
 function createWindow () {
   win = new BrowserWindow({
-    width: 350,
-    height: 263,
+    width: 250,
+    height: 250,
     // resizable:true,
     alwaysOnTop: true,
     maximizable:false,

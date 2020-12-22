@@ -9,9 +9,10 @@ body {
 
 #mycam {
     border-radius: 50%;
-    width: 95%;
-    height: 95%;
+    width: 225px;
+    height: 225px;
     border-style: solid;
     border-color:#e5f940;
     box-shadow: 5px 5px 5px #4b4b4b;
+    object-fit: cover;
 }
