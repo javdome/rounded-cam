@@ -39,11 +39,11 @@ let big = false;
 app.whenReady().then(() => {
   globalShortcut.register('Alt+CommandOrControl+1', () => {
     if (big) {
-      win.setSize(640,640);
+      win.setSize(250,250);
       big = false;
       
     } else {
-      win.setSize(250,250);
+      win.setSize(640,640);
       big = true;
     }
   })
